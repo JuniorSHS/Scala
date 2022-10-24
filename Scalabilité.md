@@ -16,4 +16,4 @@ La scalabilité verticale consiste à augmenter la puissance de calcul d'une mac
 
 ## La scalabilité horizontale vs la scalabilité verticale
 
-La scalabilité horizontale est plus simple à mettre en place, mais elle est plus coûteuse. La scalabilité verticale est plus simple à mettre en place, mais elle est plus coûteuse.
+La scalabilité horizontale est plus simple à mettre en place, mais elle est plus coûteuse. La scalabilité verticale est plus simple à mettre en place, mais elle est plus coûteuse...
