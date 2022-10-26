@@ -34,3 +34,15 @@ Le prototype est une représentation dynamique de haute-fidélité de votre site
 ## MVP (Most Valuable Product)
 
 Le MVP (Minimum Viable Product) est un produit minimal qui permet de valider une hypothèse de marché. Il s’agit d’un produit qui répond à un besoin, mais qui ne contient que les fonctionnalités essentielles. Il permet de valider rapidement une hypothèse de marché et de recueillir des retours utilisateurs.
+
+## Dictionnaire de données
+
+Le dictionnaire de données est un document qui décrit les données d’un projet. Il permet de définir les types de données, les contraintes, les règles de gestion, etc.
+
+## MCD (Modèle Conceptuel de Données)
+
+Le MCD (Modèle Conceptuel de Données) est un modèle de données qui permet de représenter les données d’un projet. Il permet de définir les types de données, les contraintes, les règles de gestion, etc. Il est généralement réalisé à l’aide d’un logiciel de modélisation de données. 
+
+## JSON
+
+JSON (JavaScript Object Notation) est un format de données textuelles. Il permet de représenter des données structurées de manière simple et lisible. Il est utilisé pour échanger des données entre un serveur et un client web. 
