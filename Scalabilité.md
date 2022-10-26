@@ -46,3 +46,7 @@ Le MCD (Modèle Conceptuel de Données) est un modèle de données qui permet de
 ## JSON
 
 JSON (JavaScript Object Notation) est un format de données textuelles. Il permet de représenter des données structurées de manière simple et lisible. Il est utilisé pour échanger des données entre un serveur et un client web. 
+
+## Material design.
+
+Material design est un langage de conception graphique développé par Google. Il permet de créer des interfaces utilisateurs cohérentes et intuitives.
